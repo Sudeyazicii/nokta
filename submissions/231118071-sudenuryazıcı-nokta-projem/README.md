@@ -16,7 +16,7 @@ Bu proje, Nokta Solo Seferi (Misyon Süresi: 2 Saat) kapsamında geliştirilmiş
 
 ## 🎥 Demo Video
 > [!IMPORTANT]
-> [Buraya 60 saniyelik demo video linkini ekleyiniz]
+> [Nokta Capture - Demo Video](https://youtube.com/shorts/Y_SWeCGSuxI?feature=share)
 
 ---
 
