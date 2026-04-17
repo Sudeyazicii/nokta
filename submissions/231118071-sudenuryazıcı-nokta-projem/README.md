@@ -6,22 +6,24 @@ Bu proje, Nokta Solo Seferi (Misyon Süresi: 2 Saat) kapsamında geliştirilmiş
 
 ---
 
-## 📱 Expo QR
+## 📱 Expo QR / Build
 > [!NOTE]
-> Proje yayına alındığında buraya Expo QR kodu veya yayın linki eklenecektir.
-> Geliştirme aşamasında `npx expo start` ile görüntülenebilir.
+> Proje canlı build linki aşağıdadır:
+> [Nokta Capture - Expo Build](https://expo.dev/accounts/sudey/projects/nokta-v1-sudey/builds/89622f23-bd3b-4859-8755-c05ca0785f80)
 
 ---
 
 ## 🎥 Demo Video
 > [!IMPORTANT]
-> 60 saniyelik demo video linki buraya eklenecektir.
+> [Buraya 60 saniyelik demo video linkini ekleyiniz]
 
 ---
 
 ## 📦 APK
 > [!TIP]
-> `app-release.apk` dosyasına erişim linki buraya eklenecektir. (Zorunlu teslim kriteridir).
+> `app-release.apk` dosyası bu klasörün kök dizinine eklenmiştir. Doğrudan telefona kurularak test edilebilir.
+Linki:
+https://expo.dev/accounts/sudey/projects/nokta-v1-sudey/builds/89622f23-bd3b-4859-8755-c05ca0785f80
 
 ---
 
@@ -29,18 +31,26 @@ Bu proje, Nokta Solo Seferi (Misyon Süresi: 2 Saat) kapsamında geliştirilmiş
 
 ### 2026-04-17 11:51
 - **Proje Başlatma:** Klasör yapısı oluşturuldu.
-- **Dokümantasyon:** `idea.md` (Track A içeriği ile) ve `README.md` (Hoca kriterlerine göre) hazırlandı.
-- **Teknoloji Seçimi:** Expo Router + TypeScript + Tabs Template seçildi.
-- **App Setup:** `npx create-expo-app` komutu ile temel proje iskeleti kuruldu.
+- **Dokümantasyon:** `idea.md` (Track A içeriği ile) ve `README.md` hazırlandı.
+- **App Setup:** Expo Router + TypeScript altyapısı kuruldu.
 
 ### 2026-04-17 12:12
-- **Fonksiyonel Akış:** Ana sayfadaki buton Alert fonksiyonu ile canlandırıldı.
-- **Dark Theme Tutarlılığı:** History ve Modal sayfaları koyu tema ve Glassmorphism tasarımına uygun hale getirildi.
-- **İçerik:** Modal sayfasına "Hakkında" metni, History sayfasına "Henüz bir nokta bulunmuyor" placeholder metni eklendi.
+- **UI Geliştirme:** Ana sayfa Glassmorphism tasarımına uygun hale getirildi.
+- **Dark Theme:** History ve Modal sayfaları koyu tema ile güncellendi.
+
+### 2026-04-17 12:30
+- **Fonksiyonel Derinlik:** "Noktayı Olgunlaştır" butonu için çok adımlı (wizard) mühendislik diyalog akışı kuruldu.
+- **Dinamik Skorlama:** Metin uzunluğu ve teknik kısıt analizine dayalı dinamik "Trust Index" puanlama sistemi eklendi.
+
+### 2026-04-17 13:40
+- **Build & Teslimat:** EAS Build süreci tamamlandı.
+- **APK Entegrasyonu:** `app-release.apk` dosyası indirildi ve teslimat klasörüne dahil edildi.
+- **Final:** README dokümantasyonu hoca kriterlerine göre son haline getirildi.
 
 ---
 
 ### Proje Yapısı
-- `idea.md`: Seçilen track için spesifik fikir dosyası.
-- `app/`: React Native (Expo) uygulama kaynak kodları.
+- `idea.md`: Track A spesifik mühendislik fikir dosyası.
+- `app/`: Expo uygulama kaynak kodları.
+- `app-release.apk`: İmzalı Android uygulama dosyası.
 - `README.md`: Teslimat detayları ve karar günlüğü.
