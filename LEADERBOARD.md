@@ -128,27 +128,27 @@ TF-IDF cosine similarity; `.github/scripts/similarity_check.py` detayını üret
 
 | Original | Copycat | Similarity |
 |---|---|---|
-| `231118072-idea-tracker` | `9211118091-mohammed-almashhor` | **0.886** |
-| `9211118091-mohammed-almashhor` | `9221118097-note-migrator` | **0.860** |
-| `231118072-idea-tracker` | `9221118097-note-migrator` | **0.844** |
-| `9211118091-mohammed-almashhor` | `231118023-busenur` | **0.840** |
-| `231118072-idea-tracker` | `231118023-busenur` | **0.837** |
-| `231118072-idea-tracker` | `231118036-ali-nursin-karacan` | **0.833** |
-| `231118072-idea-tracker` | `191118022-audit-forge` | **0.831** |
-| `9211118091-mohammed-almashhor` | `231118036-ali-nursin-karacan` | **0.824** |
-| `231118011-faruk-emre-ok` | `231118040-audit-forge` | **0.820** |
-| `231118023-busenur` | `191118022-audit-forge` | **0.820** |
+| `231118072-idea-tracker` | `9211118091-mohammed-almashhor` | **0.889** |
+| `9211118091-mohammed-almashhor` | `9221118097-note-migrator` | **0.864** |
+| `9211118091-mohammed-almashhor` | `231118023-busenur` | **0.849** |
+| `231118072-idea-tracker` | `9221118097-note-migrator` | **0.847** |
+| `231118072-idea-tracker` | `231118023-busenur` | **0.845** |
+| `231118072-idea-tracker` | `231118036-ali-nursin-karacan` | **0.835** |
+| `231118072-idea-tracker` | `191118022-audit-forge` | **0.832** |
+| `231118023-busenur` | `191118022-audit-forge` | **0.826** |
+| `9211118091-mohammed-almashhor` | `231118036-ali-nursin-karacan` | **0.826** |
+| `231118036-ali-nursin-karacan` | `231118023-busenur` | **0.822** |
+| `231118011-faruk-emre-ok` | `231118040-audit-forge` | **0.822** |
 | `9211118091-mohammed-almashhor` | `191118022-audit-forge` | **0.819** |
-| `231118036-ali-nursin-karacan` | `231118023-busenur` | **0.813** |
-| `231118036-ali-nursin-karacan` | `231118009-audit-track-a-` | **0.808** |
-| `231118036-ali-nursin-karacan` | `9221118097-note-migrator` | **0.807** |
-| `9221118097-note-migrator` | `231118023-busenur` | **0.805** |
-| `9221118097-note-migrator` | `191118022-audit-forge` | **0.804** |
-| `231118036-ali-nursin-karacan` | `191118022-audit-forge` | **0.801** |
+| `9221118097-note-migrator` | `231118023-busenur` | **0.816** |
+| `231118036-ali-nursin-karacan` | `231118009-audit-track-a-` | **0.810** |
+| `231118036-ali-nursin-karacan` | `9221118097-note-migrator` | **0.810** |
+| `9221118097-note-migrator` | `191118022-audit-forge` | **0.806** |
+| `231118036-ali-nursin-karacan` | `191118022-audit-forge` | **0.802** |
 
 ---
 
-**Last Updated:** 2026-05-21 08:41 UTC
+**Last Updated:** 2026-05-25 13:05 UTC
 
 **Total Contributors:** 0
 
