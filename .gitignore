@@ -1,2 +1,4 @@
 .aider*
 tmp/
+node_modules/
+.expo/
